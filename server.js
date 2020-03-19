@@ -10,7 +10,7 @@ app.set('view engine', 'ejs');
 const db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'Fabien2007!',
+    password: 'password',
     database: 'example_crud',
     multipleStatements: true
   });
