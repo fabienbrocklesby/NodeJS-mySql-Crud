@@ -2,11 +2,11 @@
   "name": "example-crud",
   "version": "1.0.0",
   "description": "node js crud",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
   },
-  "author": "Fabien",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
